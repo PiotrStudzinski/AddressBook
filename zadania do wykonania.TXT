@@ -1,0 +1,11 @@
+//Menu główne
+//Dodać możliwość wyjścia z aplikacji
+
+//Wszystkie menu
+//Obsługa wybrania nieprawidłowej opcji
+
+//Aplikacja
+//Dodać czyszcenie ekarnu po zakończeniu każdej operacji
+
+//Szczegóły kontaktu
+//wyświetlanie wyniku jako tabelki
